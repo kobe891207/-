@@ -175,7 +175,10 @@ def monte_carlo_simulation(num_players=1000000, p = 0.01, pity = 35):
 * 遊戲黏著度
 
 所形成的一套完整商業設計。
-
+## 執行方法
+```Bash
+python Madhead.py
+```
 ## 使用工具
 * Python
 * NumPy
